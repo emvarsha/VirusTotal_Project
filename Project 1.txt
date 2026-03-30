@@ -1,0 +1,6 @@
+                                   Project 1
+
+
+1. Scan a Malicious URL using Virus Total.
+2. Perform Whois Lookup and IP Reputation Check.
+3. Analyze a password's strength using http://password.kaspersky.com.
